@@ -1,0 +1,11 @@
+@import "./var";
+body {
+  background: url("./big.jpg") 0 0 no-repeat;
+  background-size: 1000px;
+}
+h2 {
+  height: 200px;
+  color: $h2;
+  background: url("./small.jpg") 0 0 no-repeat;
+  background-size: 200px;
+}

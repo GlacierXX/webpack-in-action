@@ -1,0 +1,9 @@
+@import "./var";
+h1 {
+  color: $h1;
+  background: url("./small.jpg") 0 0 no-repeat;
+  background-size: contain;
+}
+h2 {
+  color: $h2;
+}
